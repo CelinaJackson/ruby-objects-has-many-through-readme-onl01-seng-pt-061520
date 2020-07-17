@@ -39,6 +39,4 @@ class Waiter
 
 end
 
- deb = Waiter.new("Deb", 40)
 
- deb.best_tipper
