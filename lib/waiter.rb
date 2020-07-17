@@ -38,3 +38,5 @@ class Waiter
   end
 
 end
+
+ deb = Waiter.new("Deb", 40)
