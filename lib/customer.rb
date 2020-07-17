@@ -29,3 +29,6 @@ class Customer
     end
   end
 end
+
+
+sam = Customer.new("Sam", 27)
