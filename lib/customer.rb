@@ -29,7 +29,3 @@ class Customer
     end
   end
 end
-
-sam = Customer.new("Sam", 27)
-pat = Waiter.new("Pat", 45)
-alex = Waiter.new("Alex", 30)
