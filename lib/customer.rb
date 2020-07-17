@@ -17,3 +17,7 @@ class Customer
     Meal.new(waiter, self, total,tip)
   end
 end
+
+sam = Customer.new("Sam", 27)
+pat = Waiter.new("Pat", 45)
+alex = Waiter.new("Alex", 30)
