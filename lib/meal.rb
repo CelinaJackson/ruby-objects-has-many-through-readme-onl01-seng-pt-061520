@@ -13,5 +13,5 @@ class Meal
 
   def self.all
     @@all
-  ends
+  end
 end
